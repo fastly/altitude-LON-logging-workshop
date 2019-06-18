@@ -31,3 +31,5 @@
 ## Other Help Guide References
 
 [Log Streaming: BigQuery](https://docs.fastly.com/guides/streaming-logs/log-streaming-google-bigquery)
+
+[Configuration Guidelines for Live Streaming](https://docs.fastly.com/guides/live-streaming/configuration-guidelines-for-live-streaming)
