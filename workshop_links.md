@@ -13,6 +13,9 @@
 
 * [Ecommerce_Workshop_Exercise](https://fiddle.fastlydemo.net/fiddle/527a41c9)
 
+* [Ecommerce Exercise Solution](https://fiddle.fastlydemo.net/fiddle/bf41398b)
+
+
 [VCL Reference(Additional Variable/Header Options)](https://docs.fastly.com/vcl/)
 
 ## Use Case: Video
@@ -26,6 +29,9 @@
 * Example: [Bigquery Logging : Video "Putting it together"](https://fiddle.fastlydemo.net/fiddle/37810dfd)
 
 * [Video_Workshop_Exercise](https://fiddle.fastlydemo.net/fiddle/0493d939)
+
+* [Solution Video Exercise](https://fiddle.fastlydemo.net/fiddle/6a7a896d)
+)
 
 
 ## Other Help Guide References
